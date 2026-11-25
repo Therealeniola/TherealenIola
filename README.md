@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there! 👋 I'm Adebanji Eniola Ayomide
 
-<!--
-**Therealeniola/TherealenIola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student
 
-Here are some ideas to get you started:
+**Rufus Giwa Polytechnic, Owo, Nigeria**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm passionate about technology, programming, and software development.
+
+## 🎯 My Goal
+To become a professional software developer and build useful applications that solve real-world problems.
+
+## 🌱 Currently Learning
+- HTML
+- CSS
+- JavaScript
+- Web Development
+- Programming Fundamentals
+
+## 🛠️ My Skills
+- HTML5
+- CSS3
+- JavaScript (Beginner)
+- Responsive Web Design
+
+## 🚀 My Projects
+- Personal Profile Website
+- Responsive Web Pages
+- Beginner JavaScript Applications
+- Programming Exercises
+
+## 📚 My Learning Journey
+- Building websites
+- Improving my coding skills
+- Practising programming
+- Learning new technologies
+
+## 🤝 Let's Connect
+Thank you for visiting my GitHub profile!
+
+⭐ Always learning, building, and growing.
